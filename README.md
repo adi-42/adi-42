@@ -8,7 +8,7 @@ I am an undergraduate at BITS Pilani Hyderabad, majoring in Electronics & Commun
 👔 [LinkedIn - Aditya Raj](https://www.linkedin.com/in/aditya-raj-15a57a17b/)
 
 ## Tech Stack & Experience:
-I have experience in C/C++, primarily for DSA and JavaScript, HTML/CSS, Node, SQL for Web Development.
+I have experience in C/C++, primarily for DSA and JavaScript, React, MongoDB, HTML/CSS, Node, SQL for Web Development.
 I'm also familiar with x86 Assembly and Linux, Bash.
 
 <p>
